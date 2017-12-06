@@ -1,4 +1,4 @@
-
+# 2 player tictactoe game 
 
 def printBoard(board):
 	print(bintomove(board[0][0]) + '|' + bintomove(board[0][1]) + '|' + bintomove(board[0][2]))
